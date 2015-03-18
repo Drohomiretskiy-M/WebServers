@@ -1,0 +1,45 @@
+[Tue Feb 24 14:02:55 2015] [error] [client 127.0.0.1] File does not exist: Z:/home/kohana/www/favicon.ico
+[Tue Feb 24 14:06:45 2015] [error] [client 127.0.0.1] File does not exist: Z:/home/kohana/www/favicon.ico
+[Tue Feb 24 14:06:45 2015] [error] [client 127.0.0.1] File does not exist: Z:/home/kohana/www/favicon.ico
+[Tue Feb 24 15:37:29 2015] [error] [client 127.0.0.1] File does not exist: Z:/home/kohana/www/test
+[Tue Feb 24 15:39:00 2015] [error] [client 127.0.0.1] File does not exist: Z:/home/kohana/www/test
+[Wed Feb 25 16:51:45 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 16:52:05 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 18:58:37 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:03:32 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:08:33 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:09:35 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:36 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:36 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:36 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:37 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:37 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:37 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:37 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:38 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:09:39 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 5
+[Wed Feb 25 19:11:23 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:20 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:21 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:22 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:48 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:49 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:50 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:50 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 19:12:50 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Tamplate' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 5
+[Wed Feb 25 20:31:10 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Common' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 3
+[Wed Feb 25 20:31:10 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Common' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Main.php on line 3
+[Wed Feb 25 21:53:28 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:54:07 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:54:33 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:54:35 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:54:35 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:54:36 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:54:36 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 21:55:32 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Welcome.php on line 3
+[Wed Feb 25 22:39:33 2015] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Controller_Page::action_about() in Z:\\home\\kohana\\www\\application\\classes\\Controller\\page.php on line 16, referer: http://kohana/page/login
+[Wed Feb 25 22:39:35 2015] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Controller_Page::action_about() in Z:\\home\\kohana\\www\\application\\classes\\Controller\\page.php on line 16, referer: http://kohana/page/login
+[Wed Feb 25 22:40:13 2015] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Controller_Page::action_about() in Z:\\home\\kohana\\www\\application\\classes\\Controller\\page.php on line 16
+[Wed Feb 25 22:40:34 2015] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Controller_Page::action_about() in Z:\\home\\kohana\\www\\application\\classes\\Controller\\page.php on line 16
+[Wed Mar 18 15:46:05 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end, expecting ')' in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Common.php on line 26
+[Wed Mar 18 15:46:06 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end, expecting ')' in Z:\\home\\kohana\\www\\application\\classes\\Controller\\Common.php on line 26

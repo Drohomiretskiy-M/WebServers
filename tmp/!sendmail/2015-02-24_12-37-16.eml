@@ -1,0 +1,12 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: drohomiretskiy@gmail.com
+Subject: Congratulations!
+X-PHP-Originating-Script: 0:index.php
+From: "PHP mail()" <mail@php.net>
+
+Hello!
+Today is 2015-02-24.
+This is the test
+mail body.
+
+If you see this, sendmail stub seems to be OK.
